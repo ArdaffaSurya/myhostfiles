@@ -1,0 +1,111 @@
+# Shikikan_Neko08's HostsFiles
+# Here is The hosts files i used to unblock anything, feel free to use it
+# I also add some hosts for anime and game lovers
+# if you want a site to be included, contact me on discord ソルト#3700 or DM Me @Shikikan_Neko08
+# this is useful if you are living in a country that blocked a lot of sites
+
+# Reddit  
+
+151.101.129.140   i.redditmedia.com
+
+151.101.65.140    g.redditmedia.com
+
+151.101.65.140    a.thumbs.redditmedia.com
+
+151.101.1.140     redditgifts.com
+
+151.101.1.140     i.redd.it
+
+151.101.1.140     old.reddit.com
+
+151.101.1.140     new.reddit.com
+
+151.101.129.140   reddit.com
+
+151.101.129.140   gateway.reddit.com
+
+151.101.129.140   oauth.reddit.com
+
+151.101.129.140   sendbird.reddit.com
+
+151.101.129.140   v.redd.it
+
+151.101.1.140     b.thumbs.redditmedia.com
+
+151.101.1.140     events.reddit.com
+
+151.101.65.140    www.redditstatic.com
+
+151.101.193.140   www.reddit.com
+
+151.101.65.140    www.redditmedia.com
+
+151.101.193.140   about.reddit.com
+
+# Custom Hosts
+
+
+
+#vimeo
+151.101.64.217    player.vimeo.com
+
+151.101.129.194   vimeo-hp-videos.global.ssl.fastly.net
+
+151.101.66.109    f.vimeocdn.com
+
+151.101.64.217    vimeo.com
+
+151.101.130.109   i.vimeocdn.com
+
+151.101.64.217    developer.vimeo.com
+
+#imgur
+151.101.36.193    api.imgur.com
+
+104.16.53.111     help.imgur.com
+
+151.101.36.193    blog.imgur.com
+
+151.101.36.193    p.imgur.com
+
+151.101.36.193    s.imgur.com
+
+151.101.36.193    store.imgur.com
+
+151.101.36.193    i.imgur.com
+
+151.101.60.193    imgur.com
+
+151.101.36.193    m.imgur.com
+
+104.16.1.35       i.stack.imgur.com
+
+
+#Anime games and manga    
+
+208.100.24.252    sankakucomplex.com
+
+13.248.196.236    dmm.com
+
+13.248.196.236    dmm.co.jp
+
+66.254.114.205    nutaku.net
+
+
+### If you hate kominfo and you want to block them use this addres (For indihome, remove the #)
+
+##36.86.63.185    kominfo.go.id
+
+##36.86.63.185    www.kominfo.go.id
+
+### For Telkomsel
+
+##202.3.218.137    kominfo.go.id
+
+##202.3.218.137    www.kominfo.go.id
+
+
+
+
+
+
